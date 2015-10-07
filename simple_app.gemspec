@@ -5,12 +5,12 @@ require 'simple_app/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "simple_app"
-  spec.version       = SimpleApp::VERSION
+  spec.version       = SimpleApp::VERSION 
   spec.authors       = ["joseph Yslas"]
   spec.email         = ["jyslas@hotmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "stuff"
+  spec.description   = "stuff"
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
